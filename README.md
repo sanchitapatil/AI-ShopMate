@@ -1,7 +1,7 @@
 # Coffee Shop Customer Service Chatbot 🚀☕️
 
 ## 📌 Overview
-ChatOrderAI is an AI-powered chatbot-driven ordering system designed to streamline shopping experiences. Using **Expo (React Native)** for the mobile interface and **serverless AI agents** (Llama 3.1, Pinecone, Firebase, and RunPod's infrastructure), this project enables users to add items to their cart via natural language commands. The system automatically updates the cart and displays the total in real-time.
+AI-ShopMate is an AI-powered chatbot-driven ordering system designed to streamline shopping experiences. Using **Expo (React Native)** for the mobile interface and **serverless AI agents** (Llama 3.1, Pinecone, Firebase, and RunPod's infrastructure), this project enables users to add items to their cart via natural language commands. The system automatically updates the cart and displays the total in real-time.
 ## 🚀 Features
 - **AI Chatbot for Shopping**: Users can interact with an AI assistant to browse and order products.
 - **Automatic Cart Management**: The chatbot adds items to the cart upon user request and updates the total.
